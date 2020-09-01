@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Ilmun Kim 
+
+~~~
+{}{img_left}{photo/bio.jpg}{alt text}{350}{280}{https://ilmunk.github.io}
+Ilmun Kim \n
+Research Associate \n [https://www.statslab.cam.ac.uk Statistical Laboratory]
+\n [https://www.cam.ac.uk University of Cambridge] \n \n
+E-mail: ik396 (AT) cam (DOT) ac (DOT) uk
+~~~
+
+== About me
+I am a research associate in the [https://www.statslab.cam.ac.uk Statistical Laboratory] at the [https://www.cam.ac.uk University of Cambridge] advised by Professor [http://www.statslab.cam.ac.uk/~rjs57/ Richard Samworth] and [http://www.statslab.cam.ac.uk/~rds37/ Rajen Shah]. Prior to joining the University of Cambridge, I got my Ph.D. in Statistics and Data Science at [http://www.cmu.edu/ Carnegie Mellon University] advised by Professor [http://stat.cmu.edu/~larry Larry Wasserman] and [http://stat.cmu.edu/~siva Sivaraman Balakrishnan].
+
+My research interests are broadly in the areas of high-dimensional statistics, nonparametric inference and statistical learning theory. Currently my focus is on developing and understanding distribution-free and robust methods applied to hypothesis testing problems. I am also interested in asymptotic theory, concentration of measure and minimax theory as tools for resolving and understanding modern statistical problems.
