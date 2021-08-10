@@ -10,56 +10,63 @@
 
 == Publications and Preprints
 
+- [https://arxiv.org/pdf/2011.05068.pdf Dimension-agnostic inference]
+-- Ilmun Kim and Aaditya Ramdas
+
 - [https://arxiv.org/pdf/2003.13208.pdf Minimax optimality of permutation tests]
--- I. Kim, S. Balakrishnan and  L. Wasserman
+-- Ilmun Kim, Sivaraman Balakrishnan and Larry Wasserman
+-- Annals of Statistics (to appear)
 
 - [https://arxiv.org/pdf/1602.02210.pdf Classification accuracy as a proxy for two-sample testing]
--- I. Kim\*\, A. Ramdas\*\, A. Singh and L. Wasserman
--- Annals of Statistics (to appear)
+-- Ilmun Kim\*\, Aaditya Ramdas\*\, Aarti Singh and Larry Wasserman
+-- Annals of Statistics (2021)
 -- /Winner of Statistical Learning and Data Science Student Paper Award, JSM 2020/ 
 
+- [https://arxiv.org/pdf/1803.00715.pdf Robust Multivariate Nonparametric Tests via Projection-Averaging]
+-- Ilmun Kim, Sivaraman Balakrishnan and Larry Wasserman
+-- Annals of Statistics (2021)
+
 - [https://arxiv.org/abs/1904.05741 Comparing a Large Number of Multivariate Distributions]
--- I. Kim
--- Bernoulli (to appear)
+-- Ilmun Kim
+-- Bernoulli (2021)
+
+- [https://arxiv.org/pdf/2010.01289.pdf Randomized tests for high-dimensional regression: A more efficient and powerful solution]
+-- Yue Li, Ilmun Kim and  Yuting Wei
+-- NeurIPS (2020)
 
 - [https://arxiv.org/pdf/1905.11505.pdf
 Validation of Approximate Likelihood and Emulator Models for Computationally Intensive Simulations]
--- N. Dalmasso, A. B. Lee, R. Izbicki, T. Pospisil, I. Kim and C. Lin
--- AISTATS 2020 (to appear)
-
-
-- [https://arxiv.org/pdf/1803.00715.pdf Robust Multivariate Nonparametric Tests via Projection-Averaging]
--- I. Kim, S. Balakrishnan and  L. Wasserman
--- Annals of Statistics (to appear)
+-- Niccolò  Dalmasso, Ann B. Lee, Rafael Izbicki, Taylor Pospisil, Ilmun Kim and Chieh-An Lin
+-- International Conference on Artificial Intelligence and Statistics (2020)
 
 - [https://projecteuclid.org/download/pdfview_1/euclid.ejs/1576573369 Global and Local Two-Sample Tests via Regression]
--- I. Kim, A. B. Lee and J. Lei
+-- Ilmun Kim, Ann B. Lee and Jing Lei
 -- Electronic Journal of Statistics (2019)
 
 - [https://www.sciencedirect.com/science/article/pii/S0378375819300667 Multinomial goodness-of-fit based on U-statistics: High-dimensional asymptotic and minimax optimality]
--- I. Kim
+-- Ilmun Kim
 -- Journal of Statistical Planning and Inference (2019)
 
 - [https://www.tandfonline.com/doi/full/10.1080/03610926.2017.1332218 Likelihood ratio tests for multivariate normality]
--- I. Kim and S. Park
+-- Ilmun Kim and Sangun Park
 -- Communications in Statistics-Theory and Methods (2018)
 
 - [https://www.tandfonline.com/doi/full/10.1080/03610926.2017.1321767 General Cumulative Kullback--Leibler Information]
--- S. Park, H. Alizadeh Noughabi and I. Kim
+-- Sangun Park, Hadi Alizadeh Noughabi and Ilmun Kim
 -- Communications in Statistics-Theory and Methods (2018)
 
 - [https://academic.oup.com/mnras/article/471/3/3273/3979021 Local two-sample testing: a new tool for analysing high-dimensional astronomical data]
--- P. E. Freeman, I. Kim and A. B. Lee
+-- Peter E. Freeman, Ilmun Kim and Ann B. Lee
 -- Monthly Notices of the Royal Astronomical Society (2017)
 
 - [https://www.tandfonline.com/doi/abs/10.1080/00949655.2016.1219911 Cumulative ratio information based on general cumulative entropy]
--- S. Park and I. Kim
+-- Sangun Park and Ilmun Kim
 -- Journal of Statistical Computation and Simulation (2017)
 
 - [https://pdfs.semanticscholar.org/68c5/5f148a8c9bef046562e3e510dcd1b2d6fe2b.pdf Kullback--Leibler Information of Consecutive Order Statistics]
--- I. Kim and S. Park
+-- Ilmun Kim and Sangun Park
 -- Communications for Statistical Applications and Methods (2015)
 
 - [https://www.sciencedirect.com/science/article/pii/S0167715214002582 On cumulative residual entropy of order statistics]
--- S. Park and I. Kim
+-- Sangun Park and Ilmun Kim
 -- Statistics \& Probability Letters (2014)
